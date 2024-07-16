@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654677450391",
+    "project_id": "plant-nursery-1",
+    "storage_bucket": "plant-nursery-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654677450391:android:52880879f562d9ff6a13d2",
+        "android_client_info": {
+          "package_name": "com.example.plant_nursery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJhv5VjuOpN4zWAS59JRC3VaWV19kszNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
